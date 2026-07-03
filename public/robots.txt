@@ -1,0 +1,5 @@
+# robots.txt for Dipjal Tamrakar Portfolio
+User-agent: *
+Allow: /
+
+Sitemap: https://dipjal-tamrakar.vercel.app/sitemap.xml
