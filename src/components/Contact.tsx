@@ -197,7 +197,7 @@ export default function Contact({ theme = "dark" }: ContactProps) {
                   },
                   {
                     name: "Instagram",
-                    url: "https://www.instagram.com/dipjal_tamrakar",
+                    url: "https://www.instagram.com/dipjaltamrakar122/",
                     icon: Instagram,
                     color: isLight
                       ? "hover:text-pink-600 hover:bg-pink-50 hover:border-pink-200"
@@ -205,7 +205,7 @@ export default function Contact({ theme = "dark" }: ContactProps) {
                   },
                   {
                     name: "Facebook",
-                    url: "https://www.facebook.com/dipjal.tamrakar",
+                    url: "https://www.facebook.com/dipjal.tamrakar.2025",
                     icon: Facebook,
                     color: isLight
                       ? "hover:text-blue-600 hover:bg-blue-50 hover:border-blue-200"
@@ -278,7 +278,7 @@ export default function Contact({ theme = "dark" }: ContactProps) {
               <span>LinkedIn</span>
             </a>
             <a
-              href="https://www.instagram.com/dipjal_tamrakar"
+              href="https://www.instagram.com/dipjaltamrakar122/"
               target="_blank"
               rel="noreferrer"
               className={`flex items-center gap-1 transition-colors py-1 px-2 rounded ${
@@ -290,7 +290,7 @@ export default function Contact({ theme = "dark" }: ContactProps) {
               <span>Instagram</span>
             </a>
             <a
-              href="https://www.facebook.com/dipjal.tamrakar"
+              href="https://www.facebook.com/dipjal.tamrakar.2025"
               target="_blank"
               rel="noreferrer"
               className={`flex items-center gap-1 transition-colors py-1 px-2 rounded ${
